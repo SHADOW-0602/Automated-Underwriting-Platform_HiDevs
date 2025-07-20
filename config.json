@@ -1,0 +1,12 @@
+{
+    "potential_risk_objects": [
+        "fire hydrant",
+        "potted plant",
+        "person",
+        "car"
+    ],
+    "compliance_checklist": {
+        "asbestos_mentioned": "Presence of asbestos is a major compliance red flag.",
+        "fire_hazard_mentioned": "Mention of a fire hazard requires immediate review."
+    }
+}
